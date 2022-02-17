@@ -1,1 +1,8 @@
-
+ID - id1
+Description - Menu icon isn't displayed in header
+STR:
+1. Open url
+2. Scroll page down
+3. Scroll page up to header
+Expected result - Page is loaded. Menu icon is displayed in header
+Actual result - Page is loaded. Menu icon is not displayed in header
